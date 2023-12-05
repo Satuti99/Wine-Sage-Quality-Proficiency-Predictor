@@ -1,7 +1,7 @@
 # Wine Sage-Quality-Proficiency-Predictor
 
 
-Wine Sage is a groundbreaking project that merges the cutting-edge capabilities of MLflow with a user-friendly interface to revolutionize the machine learning development process for wine quality prediction. Leveraging the power of Elastic Net, WineSage delivers accurate and robust predictions while fostering seamless model tracking, experimentation, and management.
+Wine Sage is a groundbreaking project that merges the cutting-edge capabilities of MLflow with a user-friendly interface to revolutionize the machine learning development process for wine quality prediction. Leveraging the power of Elastic Net, WineSage delivers accurate and robust predictions while fostering seamless model tracking, experimentation, and management.This project aims to revolutionize the machine learning development process by leveraging the power of MLflow for seamless model tracking, experimentation, and management, coupled with a visually appealing and intuitive frontend built using Bootstrap.
 
 **Key Highlights:**
 
